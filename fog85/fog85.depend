@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1543034366 source:e:\20170078\fog85\untitled3.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+	<algorithm>
+	<ctime>
+
+1545300804 source:e:\sourcecode\fog85\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+	<algorithm>
+	<ctime>
+	<cstring>
+	<queue>
+
